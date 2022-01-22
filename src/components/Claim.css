@@ -1,0 +1,44 @@
+h1, h2 {
+    color: white;
+}
+.profile-img {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: url("../assets/images/Profile_Picture_v2.png") no-repeat center;
+    background-size: 200px;
+}
+.token-img {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: url("../assets/images/MintToken.png") no-repeat center;
+    background-size: 100px;
+    float: left;
+}
+.lab {
+    float: left;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+.val {
+    float: left;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.claim-box {
+    padding-left: 28%;
+}

@@ -1,0 +1,20 @@
+@font-face {
+  font-family: alienFont;
+  src: url("assets/fonts/Larceny.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Center the image */
+  /* Do not repeat the image */
+  background: url("assets/images/Space_Background_12.png") no-repeat center;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
