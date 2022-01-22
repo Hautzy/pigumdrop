@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gumdrop/static/css/main.095f3d34.chunk.css",
+    "main.js": "/gumdrop/static/js/main.38c0c155.chunk.js",
+    "main.js.map": "/gumdrop/static/js/main.38c0c155.chunk.js.map",
+    "runtime-main.js": "/gumdrop/static/js/runtime-main.24e2721b.js",
+    "runtime-main.js.map": "/gumdrop/static/js/runtime-main.24e2721b.js.map",
+    "static/css/2.b5f8c474.chunk.css": "/gumdrop/static/css/2.b5f8c474.chunk.css",
+    "static/js/2.3660137a.chunk.js": "/gumdrop/static/js/2.3660137a.chunk.js",
+    "static/js/2.3660137a.chunk.js.map": "/gumdrop/static/js/2.3660137a.chunk.js.map",
+    "static/js/3.bb855edf.chunk.js": "/gumdrop/static/js/3.bb855edf.chunk.js",
+    "static/js/3.bb855edf.chunk.js.map": "/gumdrop/static/js/3.bb855edf.chunk.js.map",
+    "index.html": "/gumdrop/index.html",
+    "static/css/2.b5f8c474.chunk.css.map": "/gumdrop/static/css/2.b5f8c474.chunk.css.map",
+    "static/css/main.095f3d34.chunk.css.map": "/gumdrop/static/css/main.095f3d34.chunk.css.map",
+    "static/js/2.3660137a.chunk.js.LICENSE.txt": "/gumdrop/static/js/2.3660137a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/gumdrop/static/media/sora-latin-ext-400-normal.b6e3517b.woff2",
+    "static/media/Claim.css": "/gumdrop/static/media/Profile_Picture_v2.41ddef32.png",
+    "static/media/wallet.c746d144.less": "/gumdrop/static/media/wallet.c746d144.less"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24e2721b.js",
+    "static/css/2.b5f8c474.chunk.css",
+    "static/js/2.3660137a.chunk.js",
+    "static/css/main.095f3d34.chunk.css",
+    "static/js/main.38c0c155.chunk.js"
+  ]
+}
